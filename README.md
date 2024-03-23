@@ -18,11 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+'''
+#swapping 2 values
+#developed by Harshini.Y
+#Registor no:212223240050
+surya_data=input()
+vijay_data=input()
+tmp=surya_data
+surya_data=vijay_data
+vijay_data=tmp
+print("Swapped values are:",surya_data,vijay_data)
+'''
+## OUTPUT:
+![image](https://github.com/ArchanaSharikalHarinarayanan/Swapping-two-values/assets/144979786/9fe08ebe-17bb-4fd3-ae0b-ec587d107113)
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
 
 
