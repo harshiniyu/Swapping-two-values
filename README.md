@@ -32,6 +32,6 @@ print("Swapped values are:",surya_data,vijay_data)
 ## OUTPUT:
 ![image](https://github.com/ArchanaSharikalHarinarayanan/Swapping-two-values/assets/144979786/9fe08ebe-17bb-4fd3-ae0b-ec587d107113)
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are executed successfully...
 
 
